@@ -1,4 +1,4 @@
-# Récupérer les données geo.json de lieux via Overpass Turbo
+# Récupérer les données GeoJSON de lieux via Overpass Turbo
 
 Objectif : obtenir un fichier **GeoJSON** contenant tous les lieux spécifiques d'une
 commune, en quelques clics et sans rien installer.
