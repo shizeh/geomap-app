@@ -1,12 +1,8 @@
 # restaurants-france
 
-> Application sociale de découverte de restaurants (dans l'esprit de Letterboxd,
-> mais pour les restaurants). Ce dépôt regroupe **toutes** les briques du projet :
-> sources de données, traitement, et interface.
+[Tentative app]
 
-> ℹ️ **`geomap-app` est un nom de travail.** Le produit n'a pas encore
-> de marque : ce nom décrit la fonction et pourra être changé plus tard. Sur
-> GitHub, renommer un dépôt conserve les redirections — ça ne casse rien.
+> ℹ️ **`geomap-app` est un nom de travail provisoire.**
 
 ---
 
