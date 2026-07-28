@@ -59,7 +59,7 @@ python scripts/fetch_overpass.py --commune Toulouse
 ```
 
 Détails et explication de la requête : voir
-[`data-sources/openstreetmap/README.md`](data-sources/openstreetmap/README.md).
+[`data-sources/openstreetmap/README.md`](geomap-app).
 
 ---
 
